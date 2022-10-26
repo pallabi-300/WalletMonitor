@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "979880886613",
+    "firebase_url": "https://wallet-76078-default-rtdb.firebaseio.com",
+    "project_id": "wallet-76078",
+    "storage_bucket": "wallet-76078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979880886613:android:f9674cecddd7c054832fdc",
+        "android_client_info": {
+          "package_name": "com.example.waletmon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979880886613-9nf4n3gtjo9g6uh98qlgoi6ldps8fr26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5fKaWSvJQOPgLPfXKM5R2q5oAkUgzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979880886613-9nf4n3gtjo9g6uh98qlgoi6ldps8fr26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979880886613:android:35b97595dc476ac6832fdc",
+        "android_client_info": {
+          "package_name": "com.example.waletmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979880886613-9nf4n3gtjo9g6uh98qlgoi6ldps8fr26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5fKaWSvJQOPgLPfXKM5R2q5oAkUgzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979880886613-9nf4n3gtjo9g6uh98qlgoi6ldps8fr26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
